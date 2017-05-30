@@ -1,0 +1,35 @@
+body {
+  background-color: #F1F0EB; /* light blue */
+  color: #45404D; /* purple */
+}
+
+a:link    {color:#45404D;  text-decoration:none}
+a:visited {color:#45404D; text-decoration:none}
+a:hover   {color:#B098C4; text-decoration:underline} /* Yellow */
+
+h1{
+  font-family: Monospace;
+  font-size: 450%;
+}
+img .concert-img{
+    display: block;
+    margin: auto;
+}
+
+.chars{
+  background-color: #726D73; /* grey */
+  color: #F1F0EB; /* yellow */
+}
+
+.bg {
+    /* The image used */
+
+
+    /* Full height */
+    width: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
